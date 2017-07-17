@@ -1,8 +1,17 @@
 Hola Mundo
 <<<<<<< HEAD
+<<<<<<< HEAD
 nuevaaaaa linea
 ahorasimaster
 =======
 tercer hola
 nuevobranch
 >>>>>>> nuevoBranch
+=======
+nuevoBranch
+tercer hola
+nuevobranch
+nuevaaaaa linea
+ahorasimaster
+ master
+>>>>>>> 880bf8de074d51dd84fef1877c47da1df2a44c48
